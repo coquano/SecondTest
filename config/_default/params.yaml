@@ -6,7 +6,8 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+#  color: emerald
+  color: ''
 
 # SEO
 #marketing:
@@ -43,7 +44,7 @@ footer:
 #    notice: '© {year} Me. This work is licensed under {license}'
     notice: ''
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
