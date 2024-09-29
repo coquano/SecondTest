@@ -9,10 +9,6 @@ title: Olivier Coquand
 #first_name: Shiung Wu
 #last_name: Chien
 
-# Status emoji
-#status:
-#  icon: ☕️
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -29,7 +25,7 @@ organizations:
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-#profiles:
+profiles:
 #  - icon: at-symbol
 #    url: 'mailto:your-email@example.com'
 #    label: E-mail Me
@@ -179,3 +175,5 @@ interests:
 #    icon: datacamp
 #    summary: |
 #      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+
+---
