@@ -19,7 +19,7 @@ highlight_name: true
 design:
   background:
     image:
-      filename: ''
+      filename: 'recap.png'
 
 # Role/position/tagline
 role: Assistant professor
