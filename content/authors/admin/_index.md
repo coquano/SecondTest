@@ -15,12 +15,6 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-#background image
-design:
-  background:
-    image:
-      filename: 'recap.png'
-
 # Role/position/tagline
 role: Assistant professor
 

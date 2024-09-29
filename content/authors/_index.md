@@ -6,4 +6,10 @@ cascade:
   _build:
     render: never
     list: always
+
+design:
+  background:
+    image:
+      filename: recap.png
+    
 ---
