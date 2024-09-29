@@ -9,22 +9,22 @@ appearance:
   color: emerald
 
 # SEO
-marketing:
-  seo:
-    site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-    plausible: ''
-    fathom: ''
-    pirsch: ''
-  verification:
-    google: ''
-    baidu: ''
+#marketing:
+#  seo:
+#    site_type: Person
+#    local_business_type: ''
+#    org_name: ''
+#    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+#    twitter: 'GetResearchDev'
+#  analytics:
+#    google_analytics: ''
+#    baidu_tongji: ''
+#    plausible: ''
+#    fathom: ''
+#    pirsch: ''
+#  verification:
+#    google: ''
+#    baidu: ''
 
 # Site header
 header:
@@ -35,12 +35,13 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Olivier Coquand"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+#    notice: '© {year} Me. This work is licensed under {license}'
+    notice: ''
     license:
       enable: true
       allow_derivatives: false
