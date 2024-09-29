@@ -35,7 +35,7 @@ sections:
       title: 'Previous working teams'
       subtitle: ''
       text: |-
-        I am not  sure what is going on...
+        kokfofekfoekfo
 
         Why are the changes not taken into account in the commit ??
         
