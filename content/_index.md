@@ -37,7 +37,7 @@ sections:
       text: |-
         I am not  sure what is going on...
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Why are the changes not taken into account in the commit ??
         
         Please reach out to collaborate 😃
     design:
