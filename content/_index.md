@@ -32,6 +32,18 @@ sections:
           parallax: false
   - block: markdown
     content:
+      title: 'Previous working teams'
+      subtitle: ''
+      text: |-
+        I am not  sure what is going on...
+
+        Why are the changes not taken into account in the commit ??
+        
+        Please reach out to collaborate 😃
+    design:
+      columns: '1'
+  - block: markdown
+    content:
       title: 'Research Interests'
       subtitle: ''
       text: |-
