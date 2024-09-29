@@ -42,10 +42,10 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/
 
-Interests:
-  - Mechanics
-  - Computational Linguistics
-  - Information Retrieval
+#Interests:
+#  - Mechanics
+#  - Computational Linguistics
+#  - Information Retrieval
 
 #education:
 #  - area: PhD Artificial Intelligence
