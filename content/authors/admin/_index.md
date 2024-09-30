@@ -36,7 +36,7 @@ profiles:
 #  - icon: brands/github
 #    url: https://github.com/gcushen
   - icon: brands/researchgate
-#    url: https://www.linkedin.com/
+    url: https://www.researchgate.net/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
