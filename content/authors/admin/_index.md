@@ -35,7 +35,7 @@ profiles:
 #    url: https://www.instagram.com/
 #  - icon: brands/github
 #    url: https://github.com/gcushen
-  - icon: Researchgate_icon_SVG.png
+  - icon: /assets/media/Researchgate_icon_SVG.png
     url: https://www.researchgate.net/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
