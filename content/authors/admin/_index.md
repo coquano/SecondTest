@@ -36,15 +36,15 @@ profiles:
 #  - icon: brands/github
 #    url: https://github.com/gcushen
   - icon: academicons/arxiv
-    url: https://www.arxiv.org/
+    url: https://arxiv.org/search/?searchtype=author&query=Coquand%2C+O
   - icon: academicons/researchgate
-    url: https://www.researchgate.net/
+    url: https://www.researchgate.net/profile/Olivier-Coquand
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.fr/citations?user=MkMpYDwAAAAJ&hl=fr
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-0604-8596
   - icon: academicons/hal
-    url: https://hal.science/
+    url: https://hal.science/search/index/q/*/authIdHal_s/olivier-coquand
 
 #Interests:
 #  - Mechanics
