@@ -19,9 +19,12 @@ main:
   - name: Seminars
     url: /#seminars
     weight: 14
+  - name: Job proposal
+    url: /#job
+    weight: 15
   - name: Contact
     url: /#contact
-    weight: 15
+    weight: 16
   #- name: Teaching
   #  url: teaching/
   #  weight: 40
