@@ -43,6 +43,8 @@ profiles:
     url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
+  - icon: academicons/hal
+    url: https://hal.science/
 
 #Interests:
 #  - Mechanics
