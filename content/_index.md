@@ -68,13 +68,10 @@ sections:
       subtitle: ''
 
       image:
-          # Add your image background to `assets/media/`.
           filename: '/recap.png'
           filters:
             brightness: 1.0
-          size: cover
           position: center
-          parallax: false
 
       text: |-
         My research interest concentrate on systems that can be considered as holding an intermediate position
