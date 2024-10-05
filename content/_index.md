@@ -75,11 +75,15 @@ sections:
           position: center
           parallax: false
       text: |-
-        I am not  sure what is going on...
-
-        Why are the changes not taken into account in the commit ??
+        My research interest concentrate on systems that can be considered as holding an intermediate position
+        between the two ideal models of the crystalline solid and the simple liquid.
         
-        Please reach out to collaborate 😃
+        This include for example the study of deformation of crystalline membrane, which, because of their bidemensional character
+        present much stronger thermal fluctuations as usual three dimensional solids, and therefore display unconventional elasticity.
+
+        I have also been working on the determination of the structural and rheological properties of complex fluids (that typically
+        display non Newtonian rules of flow).
+
     design:
       columns: '1'
       
