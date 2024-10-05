@@ -24,6 +24,18 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
+          filename: 'recap.png'
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
+    design:
+      css_class: dark
+      background:
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
           filename: 'IMG_20230122_140611_shadow.jpg'
           filters:
             brightness: 1.0
