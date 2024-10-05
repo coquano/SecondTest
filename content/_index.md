@@ -56,8 +56,6 @@ sections:
       subtitle: ''
       image:
           filename: '/static/uploads/recap.png'
-          filters:
-            brightness: 1.0
           position: center
 
       text: |-
