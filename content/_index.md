@@ -89,7 +89,8 @@ sections:
         granular flows are always in an out-of-equilibrium state when they are not at rest).
 
         In order to study these systems, I use a wide combination of tools, mostly from statistical field theory and the renormalisation
-        group on the one end (using both perturbative and non perturbative schemes), but also mode-coupling theory
+        group on the one end (using both perturbative and non perturbative schemes), but also methods from the physics of liquids such
+        as mode-coupling theory.
 
     design:
       columns: '1'
