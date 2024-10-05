@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: 'recap.png'
+          filename: 'IMG_20230122_140611_shadow.jpg'
           filters:
             brightness: 1.0
           size: cover
@@ -42,13 +42,17 @@ sections:
           size: cover
           position: center
           parallax: false
+
   - block: markdown
     content:
       title: 'Previous working teams'
       subtitle: ''
       text: |-
-        kokfofekfoekfo
-        jiovwonovrnonkvnslknvlknvnfnfoowk
+        I first worked in the group of Bruno Machet in LPTHE (Laboratoire de Physique Théorique des Hautes Énergies, Sorbonne
+        Université, Paris, France) for a couple of months.
+
+        Then, I joined the team of Dominique Mouhanna in LPTMC (Laboratoire de Physique Théorique de la Matière Condensée,
+        Sorbonne Université, Paris, France). During this time, I had the chance to collaborate with Sofian Teber from LPTHE (Paris).
 
         cujiojacssjoicsamklmn,nmqffwkbfwhowqfohimxm
 
