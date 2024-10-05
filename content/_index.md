@@ -19,7 +19,7 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
     design:
-      css_class: bright
+      css_class: dark
       background:
         color: black
         image:
@@ -31,7 +31,7 @@ sections:
           position: center
           parallax: false
     design:
-      css_class: dark
+      css_class: bright
       background:
         color: black
         image:
@@ -54,8 +54,11 @@ sections:
         Then, I joined the team of Dominique Mouhanna in LPTMC (Laboratoire de Physique Théorique de la Matière Condensée,
         Sorbonne Université, Paris, France). During this time, I had the chance to collaborate with Sofian Teber from LPTHE (Paris).
 
-        cujiojacssjoicsamklmn,nmqffwkbfwhowqfohimxm
+        I have been working for three years in the group of Matthias Sperl (Institut für Materialphysik im Weltraum,
+        Deutsches Zentrum für Luft- und Raumfahrt, Köln, Germany).
 
+        Before coming to Perpignan, I have worked for one year in the group of Ludovic Berthier in L2C (Laboratoire Charles Coulomb,
+        Université de Montpellier, Montpellier, France).
 
     design:
       columns: '1'
