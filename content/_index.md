@@ -67,7 +67,7 @@ sections:
       title: 'Research Interests'
       subtitle: ''
       image:
-          filename: '/static/recap.png'
+          filename: '/static/uploads/recap.png'
           filters:
             brightness: 1.0
           position: center
