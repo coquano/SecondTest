@@ -19,7 +19,7 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
     design:
-      css_class: dark
+      css_class: bright
       background:
         color: black
         image:
@@ -31,7 +31,7 @@ sections:
           position: center
           parallax: false
     design:
-      css_class: bright
+      css_class: dark
       background:
         color: black
         image:
