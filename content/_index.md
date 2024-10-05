@@ -84,6 +84,11 @@ sections:
         I have also been working on the determination of the structural and rheological properties of complex fluids (that typically
         display non Newtonian rules of flow).
 
+        A quite substantial part of my work has been devoted to the study of the flow properties of granular liquids. These
+        systems, despite their ubiquitous character are still poorly understood today because, on the formal level, they escape
+        the rules at the basis of the well-known frameworks in statistical physics (the granular particles being dissipative,
+        granular flows are always in an out-of-equilibrium state when they are not at rest).
+
     design:
       columns: '1'
       
