@@ -66,6 +66,14 @@ sections:
     content:
       title: 'Research Interests'
       subtitle: ''
+      image:
+          # Add your image background to `assets/media/`.
+          filename: 'recap.png'
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
       text: |-
         I am not  sure what is going on...
 
@@ -74,6 +82,7 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
+      
   - block: collection
     id: papers
     content:
