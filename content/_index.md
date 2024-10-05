@@ -47,9 +47,9 @@ sections:
 
         Before coming to Perpignan, I have worked for one year in the group of Ludovic Berthier in L2C (Laboratoire Charles Coulomb,
         Université de Montpellier, Montpellier, France).
-
     design:
       columns: '1'
+
   - block: markdown
     content:
       title: 'Research Interests'
@@ -57,7 +57,6 @@ sections:
       image:
           filename: '/static/uploads/recap.png'
           position: center
-
       text: |-
         My research interest concentrate on systems that can be considered as holding an intermediate position
         between the two ideal models of the crystalline solid and the simple liquid.
