@@ -66,7 +66,6 @@ sections:
     content:
       title: 'Research Interests'
       subtitle: ''
-
       image:
           filename: '/static/recap.png'
           filters:
