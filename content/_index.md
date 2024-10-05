@@ -33,10 +33,10 @@ sections:
     design:
       css_class: bright
       background:
-        color: white
+        color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: 'IMG_20230122_140611_shadow.jpg'
+          filename: 'recap.png'
           filters:
             brightness: 1.0
           size: cover
