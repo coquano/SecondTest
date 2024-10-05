@@ -54,6 +54,9 @@ sections:
     content:
       title: 'Research Interests'
       subtitle: ''
+      {{< figure 
+        src="/static/uploads/recap.png"
+        >}}
       image:
         filename: '/static/uploads/recap.png'
         position: center
