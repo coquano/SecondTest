@@ -68,7 +68,7 @@ sections:
       subtitle: ''
 
       image:
-          filename: '/recap.png'
+          filename: '/static/recap.png'
           filters:
             brightness: 1.0
           position: center
