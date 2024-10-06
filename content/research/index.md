@@ -20,7 +20,7 @@ title : Research Activities
 
 #### Effect of frozen disorder on the elasticity
 
-![jwfo](/static/uploads/ElasDis.png)
+![jwfo](ElasDis.png)
 
 ### Internal Structure of Liquids
 
