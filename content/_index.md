@@ -75,6 +75,8 @@ sections:
         In order to study these systems, I use a wide combination of tools, mostly from statistical field theory and the renormalisation
         group on the one end (using both perturbative and non perturbative schemes), but also methods from the physics of liquids such
         as mode-coupling theory.
+
+        To learn more, visit the [Research](/#research) section.
     design:
       columns: '1'
       
