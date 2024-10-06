@@ -10,6 +10,8 @@ title : Research Activities
 
 #### Anomalous Hooke Law
 
+![](/static/uploads/RotMix.png)
+
 #### Elasticity at low temperatures
 
 #### Effect of frozen disorder on the elasticity
