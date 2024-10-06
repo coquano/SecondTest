@@ -18,6 +18,10 @@ title : Research Activities
 
 {{< figure src="ElasDis.png" title="Steve Francia" >}}
 
+```go
+{{</* icon name="ElasDis.png" */>}} ElasDis
+```
+
 #### Effect of frozen disorder on the elasticity
 
 ![jwfo](ElasDis.png)
