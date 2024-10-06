@@ -33,19 +33,19 @@ sections:
 
   - block: markdown
     content:
-      title: 'Previous working teams'
+      title: '* Previous working teams'
       subtitle: ''
       text: |-
-        I first worked in the group of Bruno Machet in LPTHE (Laboratoire de Physique Théorique des Hautes Énergies, Sorbonne
+        * I first worked in the group of **Bruno Machet** in LPTHE (Laboratoire de Physique Théorique des Hautes Énergies, Sorbonne
         Université, Paris, France) for a couple of months.
 
-        Then, I joined the team of Dominique Mouhanna in LPTMC (Laboratoire de Physique Théorique de la Matière Condensée,
-        Sorbonne Université, Paris, France). During this time, I had the chance to collaborate with Sofian Teber from LPTHE (Paris).
+        * Then, I joined the team of **Dominique Mouhanna** in LPTMC (Laboratoire de Physique Théorique de la Matière Condensée,
+        Sorbonne Université, Paris, France). During this time, I had the chance to collaborate with **Sofian Teber** from LPTHE (Paris).
 
-        I have been working for three years in the group of Matthias Sperl (Institut für Materialphysik im Weltraum,
+        * I have been working for three years in the group of **Matthias Sperl** (Institut für Materialphysik im Weltraum,
         Deutsches Zentrum für Luft- und Raumfahrt, Köln, Germany).
 
-        Before coming to Perpignan, I have worked for one year in the group of Ludovic Berthier in L2C (Laboratoire Charles Coulomb,
+        * Before coming to Perpignan, I have worked for one year in the group of **Ludovic Berthier** in L2C (Laboratoire Charles Coulomb,
         Université de Montpellier, Montpellier, France).
     design:
       columns: '1'
