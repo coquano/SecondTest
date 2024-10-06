@@ -24,4 +24,6 @@ title : Research Activities
 
 ![jwfwfo](/static/uploads/recap.png)
 
+qeg-envp
+
 ### Rheology of granular liquids
