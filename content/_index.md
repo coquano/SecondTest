@@ -56,7 +56,11 @@ sections:
       subtitle: ''
       image :
         filename : '/static/uploads/recap.png'
-        position : center        
+        position : center
+        filters:
+            brightness: 1.0
+        size: cover
+        parallax: false        
 
       text: |-
         My research interest concentrate on systems that can be considered as holding an intermediate position
