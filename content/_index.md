@@ -55,8 +55,8 @@ sections:
       title: 'Research Interests'
       subtitle: ''
       image :
-        ![](/static/uploads/recap.png)
-        
+        filename : '/static/uploads/recap.png'
+        position : center        
 
       text: |-
         My research interest concentrate on systems that can be considered as holding an intermediate position
