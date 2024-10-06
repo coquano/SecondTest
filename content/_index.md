@@ -54,9 +54,7 @@ sections:
     content:
       title: 'Research Interests'
       subtitle: ''
-      image: |-
-        filename: '/static/uploads/recap.png'
-        position: center
+      ![](/static/uploads/recap.png)
       text: |-
         My research interest concentrate on systems that can be considered as holding an intermediate position
         between the two ideal models of the crystalline solid and the simple liquid.
