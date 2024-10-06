@@ -54,9 +54,8 @@ sections:
     content:
       title: 'Research Interests'
       subtitle: ''
+      image : ![](/static/uploads/recap.png)
 
-      ![](/static/uploads/recap.png)
-      
       text: |-
         My research interest concentrate on systems that can be considered as holding an intermediate position
         between the two ideal models of the crystalline solid and the simple liquid.
@@ -76,7 +75,7 @@ sections:
         group on the one end (using both perturbative and non perturbative schemes), but also methods from the physics of liquids such
         as mode-coupling theory.
 
-        To learn more, visit the [Research](research/) section.
+        # To learn more, visit the [Research](research/) section.
     design:
       columns: '1'
       
