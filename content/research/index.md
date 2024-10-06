@@ -16,7 +16,7 @@ title : Research Activities
 
 ![Test](/static/uploads/QDiag.png)
 
-{{< figure src="/static/uploads/QDiag.png" title="Steve Francia" >}}
+{{< figure src="ElasDis.png" title="Steve Francia" >}}
 
 #### Effect of frozen disorder on the elasticity
 
