@@ -22,4 +22,6 @@ title : Research Activities
 
 ### Internal Structure of Liquids
 
+![jwfwfo](/static/uploads/recap.png)
+
 ### Rheology of granular liquids
