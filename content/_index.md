@@ -81,7 +81,7 @@ sections:
         group on the one end (using both perturbative and non perturbative schemes), but also methods from the physics of liquids such
         as mode-coupling theory.
 
-        To learn more, visit the [Research](/content/research/index.md) [Research]({{%relref #research %}}) section.
+        To learn more, visit the [Research](/content/research/index.md) [Research]({{%relref /content/research %}}) section.
     design:
       columns: '1'
       
