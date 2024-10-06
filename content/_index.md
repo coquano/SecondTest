@@ -56,7 +56,6 @@ sections:
       subtitle: ''
       image :
         ![](/static/uploads/recap.png)
-        ![def]
         
 
       text: |-
