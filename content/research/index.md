@@ -18,6 +18,8 @@ title : Research Activities
 
 #### Effect of frozen disorder on the elasticity
 
+![jwfo](/static/uploads/ElasDis.png)
+
 ### Internal Structure of Liquids
 
 ### Rheology of granular liquids
