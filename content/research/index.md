@@ -15,17 +15,13 @@ comments: false  # Show comments?
 
 #### Anomalous Hooke Law
 
-![Titre](/static/uploads/RotMix.png)
+![Titre](RotMix.png)
 
 #### Elasticity at low temperatures
 
-![Test](/static/uploads/QDiag.png)
+![Test](QDiag.png)
 
 {{< figure src="ElasDis.png" title="Steve Francia" >}}
-
-```go
-{{</* icon name="ElasDis.png" */>}} ElasDis
-```
 
 #### Effect of frozen disorder on the elasticity
 
@@ -33,7 +29,7 @@ comments: false  # Show comments?
 
 ### Internal Structure of Liquids
 
-![jwfwfo](/static/uploads/recap.png)
+![jwfwfo](recap.png)
 
 qeg-envp
 
