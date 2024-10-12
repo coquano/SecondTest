@@ -63,6 +63,8 @@ sections:
         parallax: false        
 
       text: |-
+        ![Test](/static/uploads/recap.png)
+
         My research interest concentrate on systems that can be considered as holding an intermediate position
         between the two ideal models of the crystalline solid and the simple liquid.
         
