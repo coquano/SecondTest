@@ -86,6 +86,18 @@ sections:
         To learn more, visit the [Research]({{< ref "research/index.md" >}}) {{< ref "research/index.md" >}} {{< ref "research/" >}} section.
     design:
       columns: '1'
+
+  - block: collection
+    id: research
+    content:
+      title: Research interests
+      filters:
+        folders:
+          - rsch
+        featured_only: true
+    design:
+      columns: 1
+
       
   - block: collection
     id: papers
