@@ -153,5 +153,24 @@ sections:
   cwiepoci icowpe iopc iwpoc 
   c wo icpow eic
 
+  qcqio cipoq icpoq
+  w ciqoci
+  qic 
+  oi wc
+   iq
+   ci 
+   o
+    
+     ociqpoicoiwicqpowoq
+     c
+
+  #  owiv pwoei vop v
+
+  w evio iwoev op vwe
+  wv
+  
+  wv wivoep ivopwi p
+
+
 [def]: /static/uploads/recap.png
 [def2]: /static/uploads/recap.png
